@@ -1,0 +1,9 @@
+telegram
+ydb
+six
+python-telegram-bot
+sanic
+Pillow
+requests
+aiogram
+boto3
