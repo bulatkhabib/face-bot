@@ -8,7 +8,7 @@
 - vvot10-tasks
 ### Триггеры
 - vvot10-photo-trigger 
-- vvot10-task-trigger 
+- vvot10-tasks-trigger 
 ### Функции
 - vvot10-face-detection (код из файла **crop.py**)
 - vvot10-boot (код из файла **bot.py**)
